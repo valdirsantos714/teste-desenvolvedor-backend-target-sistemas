@@ -1,3 +1,5 @@
+package question3;
+
 public class FaturamentoDistribuidora {
 
     public static void main(String[] args) {
